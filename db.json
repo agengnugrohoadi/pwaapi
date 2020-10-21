@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Frilled lizard","category":"Yellow"},
+{"id":2,"name":"Mouse, four-striped grass","category":"Purple"},
+{"id":3,"name":"Otter, cape clawless","category":"Green"},
+{"id":4,"name":"Colobus, white-mantled","category":"Yellow"},
+{"id":5,"name":"Pampa gray fox","category":"Fuscia"},
+{"id":6,"name":"Lion, california sea","category":"Aquamarine"},
+{"id":7,"name":"Cat, civet","category":"Goldenrod"},
+{"id":8,"name":"Mongoose, javan gold-spotted","category":"Khaki"},
+{"id":9,"name":"Shrike, crimson-breasted","category":"Pink"},
+{"id":10,"name":"Spoonbill, european","category":"Blue"},
+{"id":11,"name":"Jaguarundi","category":"Green"},
+{"id":12,"name":"Cobra, egyptian","category":"Maroon"},
+{"id":13,"name":"Ringtail cat","category":"Green"},
+{"id":14,"name":"Wild turkey","category":"Indigo"},
+{"id":15,"name":"Pied butcher bird","category":"Orange"},
+{"id":16,"name":"Superb starling","category":"Aquamarine"},
+{"id":17,"name":"North American beaver","category":"Turquoise"},
+{"id":18,"name":"Southern brown bandicoot","category":"Aquamarine"},
+{"id":19,"name":"Red-necked wallaby","category":"Puce"},
+{"id":20,"name":"Dingo","category":"Khaki"}
+]
+}
